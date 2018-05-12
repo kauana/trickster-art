@@ -1,0 +1,93 @@
+.stage {
+    position: absolute;
+    background-image: url("./stage.gif");
+    background-position: -510px -220px ;
+    background-repeat: no-repeat;
+    height: 640px;
+    width: 720px;
+    top: 0;
+    left: 0;
+}
+.stage-fix {
+    position: absolute;
+    background-image: url("./stage-fix.png");
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 160px;
+    top: 119px;
+    left: 159px;
+}
+
+.characters {
+    position: absolute;
+}
+
+#miranda {
+    top: 394px;
+    left: 403px;
+}
+
+#mirabo {
+    top: 410px;
+    left: 373px;
+}
+
+#rachel {
+    top: 363px;
+    left: 190px;
+}
+
+#ethel {
+    top: 316px;
+    left: 239px;
+}
+
+#rosaline {
+    top: 303px;
+    left: 273px;
+}
+
+#tango {
+    top: 131px;
+    left: 459px;
+}
+
+#sissy {
+    top: 270px;
+    left: 449px;
+}
+
+#olinda {
+    left: 461px;
+    top: 408px;
+}
+
+#lisa {
+    top: 310px;
+    left: 333px;
+}
+
+#dorothy {
+    top: 286px;
+    left: 393px;
+}
+
+#vinosh {
+    top: 477px;
+    left: 50px;
+}
+
+#erin {
+    top: 435px;
+    left: 587px;
+}
+
+#shara {
+    top: 499px;
+    left: 163px;
+}
+
+#ren {
+    top: 303px;
+    left: 531px;
+}
